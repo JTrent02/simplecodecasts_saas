@@ -6,6 +6,8 @@ require 'rails/all'
 # you've limited to :test, :development, or :production.
 Bundler.require(*Rails.groups)
 
+
+
 module SimplecodecastsSaas
   class Application < Rails::Application
     # Settings in config/environments/* take precedence over those specified here.
@@ -25,4 +27,3 @@ module SimplecodecastsSaas
   end
 end
 
-config.assets.initialize_on_precompile=false
