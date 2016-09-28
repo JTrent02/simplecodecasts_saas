@@ -171,6 +171,7 @@ DEPENDENCIES
   sass-rails (= 4.0.3)
   sdoc (= 0.4.0)
   spring
+  sprockets (= 2.11.0)
   sprockets_better_errors
   sqlite3
   turbolinks
