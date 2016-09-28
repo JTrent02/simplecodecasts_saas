@@ -1,12 +1,8 @@
 source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-<<<<<<< HEAD
-gem 'rails', '4.1.9'
-=======
 gem 'rails', '4.2.5.1'
 
->>>>>>> user_authentication
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3', group: [:development, :test]
 # Use postgresql as the database for production
