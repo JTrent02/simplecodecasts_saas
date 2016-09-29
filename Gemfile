@@ -47,7 +47,6 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-gem 'sprockets_better_errors'
 gem 'heroku'
 
 group :production do
@@ -56,3 +55,4 @@ group :production do
 end
 
 gem 'devise', '3.4.1'
+gem 'coffee-script-source', '1.8.0'
