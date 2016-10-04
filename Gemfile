@@ -55,12 +55,7 @@ group :development do
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
 end
-<<<<<<< HEAD
-
-gem 'sprockets', '2.11.0'
-=======
 # Use devise for user auth
 gem 'devise', '3.4.1'
 # Use stripe for handling payments
 gem 'stripe', '1.55.0'
->>>>>>> development
