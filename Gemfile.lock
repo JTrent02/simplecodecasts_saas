@@ -196,7 +196,6 @@ DEPENDENCIES
   sass-rails
   sdoc (= 0.4.0)
   spring
-
   sqlite3
   stripe (= 1.55.0)
   uglifier (>= 1.3.0)
