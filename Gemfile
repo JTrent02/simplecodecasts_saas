@@ -59,3 +59,6 @@ end
 gem 'devise', '3.4.1'
 # Use stripe for handling payments
 gem 'stripe', '1.55.0'
+
+# Paperclip gem to install pictures
+gem 'paperclip', '4.2.1'
